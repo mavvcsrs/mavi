@@ -1,1 +1,14 @@
 .cabecalho
+{
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    background-color: aquamarine;
+}
+.imagem{
+    width: 20px;
+    background-image: linear-gradient();
+}
