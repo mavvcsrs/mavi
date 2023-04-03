@@ -1,6 +1,5 @@
 .cabecalho
-{
-    background-color: aqua;
+{background-color: blueviolet;
 }
 h1 {
     text-align: center;
@@ -8,7 +7,17 @@ h1 {
 h2 {
     background-color: aquamarine;
 }
-.imagem{
+.imagem {
     width: 20px;
-    background-image: linear-gradient();
+    background-image:-moz-linear-gradient(#383d58) ;
+}
+p {
+    font-size: 30px;
+} 
+.paragrafos 
+{ 
+    font-size: 30px;
+}
+footer{
+ background-color: black;
 }
