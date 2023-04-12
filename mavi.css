@@ -1,23 +1,33 @@
+
 .cabecalho
-{background-color: blueviolet;
+{background-color: rgb(164, 94, 230);
 }
 h1 {
-    text-align: center;
+    text-align: center; 
+}
+h1{
+    font-size: 55px;
+}
+h2{
+    font-size: 55px;
 }
 h2 {
-    background-color: aquamarine;
+    background-color: #c076fc;
 }
 .imagem {
     width: 20px;
     background-image:-moz-linear-gradient(#383d58) ;
 }
 p {
-    font-size: 30px;
+    font-size: 50px;
 } 
 .paragrafos 
 { 
-    font-size: 30px;
+    font-size: 50px;
 }
 footer{
  background-color: black;
+}
+.extra{
+ font-size: 55px
 }
