@@ -1,6 +1,5 @@
-
 .cabecalho
-{background-color: rgb(164, 94, 230);
+{background-color: rgb(206, 169, 240);
 }
 h1 {
     text-align: center; 
@@ -12,7 +11,7 @@ h2{
     font-size: 55px;
 }
 h2 {
-    background-color: #c076fc;
+    background-color: #b06be9;
 }
 .imagem {
     width: 20px;
@@ -30,4 +29,10 @@ footer{
 }
 .extra{
  font-size: 55px
+}
+.centro{
+text-align: center;
+}
+.extra{
+    background-color: #7689f5;
 }
